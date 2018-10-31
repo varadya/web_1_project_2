@@ -19,5 +19,9 @@
     }
     }
     .footer{
-        background-color: grey
+        
+    display: flex;
+     background:rgb(32, 33, 33);
+    justify-content: space-between;
+    padding: 1em;
     }
