@@ -15,7 +15,7 @@
 
     .leftlinks{
         display: flex;
-        justify-content:  flex-start;
+        align-self: flex-start;
     }
     }
     .footer{
