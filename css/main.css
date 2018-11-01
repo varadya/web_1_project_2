@@ -29,3 +29,8 @@
     .rightlinks {
         align-items: baseline;
     }
+
+    .socials {
+        display: flex;
+        flex-direction: row;
+    }
