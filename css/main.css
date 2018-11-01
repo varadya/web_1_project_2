@@ -10,18 +10,13 @@
     
     .rightlinks {
       display: flex;
-      width: 30%;
+      width: 20%;
       justify-content: space-between;
-
-    .leftlinks{
-        display: flex;
-        align-self: flex-start;
-    }
     }
     .footer{
         
     display: flex;
-     background:rgb(32, 33, 33);
+     background: light grey;
     justify-content: space-between;
     padding: 1em;
     }
