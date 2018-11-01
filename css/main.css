@@ -28,4 +28,6 @@
     .socials {
         display: flex;
         flex-direction: row;
+        width: 25%;
+        height: 25%;
     }
