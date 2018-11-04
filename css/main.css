@@ -11,6 +11,7 @@
     .rightlinks {
       display: flex;
       width: 20%;
+      height: 20%
       justify-content: space-between;
     }
     .footer{
