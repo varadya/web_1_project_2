@@ -23,8 +23,10 @@
     }
 
     .rightlinks {
+        justify-content: flex-start
         align-items: baseline;
-    }
+        width: 25%;
+        height: 25%; }
 
     .socials {
         display: flex;
