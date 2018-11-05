@@ -21,6 +21,7 @@ body {
     margin-bottom: 8px;
     width: calc(50% - 4px);
     margin-right: 8px;
+    object-fit: contain;
   }
   
   a:nth-of-type(2n) {
@@ -56,6 +57,7 @@ body {
     display: block;
     background: #ccc;
     transition: transform .2s ease-in-out;
+    object-fit: contain;
   }
   
   .p a {
