@@ -3,9 +3,6 @@
 body { font-family: Arial, sans-serif; }
 
 
-#gallery img {
-  -webkit-filter: grayscale(100%) drop-shadow(5px 5px 5px rgba(13, 0, 0, 0.3))
-}
 
 
 .grid {
