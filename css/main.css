@@ -48,4 +48,8 @@ body { font-family: Arial, sans-serif; }
 			.grid li.wide {
 				width: 50%;
 			}
-		}
+        }
+        
+        .container{
+            justify-content: center
+        }
