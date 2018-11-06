@@ -35,10 +35,10 @@ body { font-family: Arial, sans-serif; }
 		
 		@media all and (min-width: 40em) {
 			.grid li {
-				width: 33.3333333%;
+				width: 33%;
 			}
 			.grid li.wide {
-				width: 66.666666%;
+				width: 66%;
 			}
 		}
 		@media all and (min-width: 60em) {
