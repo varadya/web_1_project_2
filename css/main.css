@@ -4,9 +4,12 @@
 	nav {
 		display: flex;
 		background: lightgrey;
-	  justify-content: space-between;
-	  padding: 1em;
-	}
+	    justify-content: space-between;
+	    padding: 1em;
+	    width: 25%;
+	    height: 25%;
+	    object-fit: scale-down;}
+	
 	
 	div {
 	  display: flex;
@@ -16,8 +19,8 @@
 .socials{
 	width: 25%;
 	height: 25%;
-	object-fit: contain;
-}
+	object-fit: scale-down;}
+
 
 
 
