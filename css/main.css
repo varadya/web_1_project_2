@@ -17,8 +17,7 @@
 		justify-content: space-between;
 	}
 .socials{
-	width: 100px;
-	height: 100px;
+	display: inline;
 	object-fit: scale-down;}
 
 
