@@ -18,6 +18,7 @@
 	}
 .socials{
 	display: inline;
+	resize: auto;
 	object-fit: scale-down;}
 
 
