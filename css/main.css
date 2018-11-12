@@ -34,8 +34,10 @@ body { font-family: Arial, sans-serif; }
 		@media only screen and (min-width: 960px)  and (max-width: 1140px){}
 
 			body { min-width: 960px; }
-			.grid-container {
+			.contianer {
 				display: grid;
-				height: 400px;
-				align-content: center;
-			  }
+				grid-template-columns: repeat(3, 1fr);
+				grid-template-rows: 300px 300px 300px;
+				grid-column-gap: 5px;
+				grid-row-gap: 5px;
+			}
