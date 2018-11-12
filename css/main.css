@@ -30,16 +30,12 @@
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 body { font-family: Arial, sans-serif; }
-
-
-        
-        .container{
-			justify-content: center;
-			flex-wrap: wrap;
-			padding: 10px;
-		}
 		
 		@media only screen and (min-width: 960px)  and (max-width: 1140px){}
 
 			body { min-width: 960px; }
-	
+			.grid-container {
+				display: grid;
+				height: 400px;
+				align-content: center;
+			  }
