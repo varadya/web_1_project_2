@@ -29,7 +29,7 @@ div.title {
 div.socials {
   display: inline;
   float: right;
-  display-content: row;
+  justify-content: row;
   position: relative;
   top: -50px;
 }
