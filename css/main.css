@@ -14,19 +14,19 @@ div.title {
   width: 30%;
 }
 
-#icon-1 {
+#facebook {
   width: 25px;
   height: 25px;
   border-radius: 8px;
 }
 
-#icon-2 {
+#twitter {
   width: 25px;
   height: 25px;
   border-radius: 8px;
 }
 
-div.icons {
+div.socials {
   display: inline;
   float: right;
   display-content: row;
