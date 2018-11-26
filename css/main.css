@@ -14,19 +14,19 @@ div.title {
   width: 30%;
 }
 
-#facebook {
+#icon-1 {
   width: 25px;
   height: 25px;
   border-radius: 8px;
 }
 
-#twitter {
+#icon-2 {
   width: 25px;
   height: 25px;
   border-radius: 8px;
 }
 
-div.socials {
+div.icons {
   display: inline;
   float: right;
   display-content: row;
@@ -43,7 +43,7 @@ div.log-in {
 }
 
 
-.big img {
+.mainphoto img {
   width: 1300px;
   height: 400px;
   background-color: white;
