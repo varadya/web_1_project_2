@@ -27,8 +27,8 @@ border-radius: 8px;
 }
 
 .socials {
-display: inline;
-
+display: block;
+float: right;
 position: relative;
 top: -50px;
 }
