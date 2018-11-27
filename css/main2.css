@@ -1,271 +1,272 @@
 body {
-    background-image: url('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/fabric_plaid.png?raw=true');
-  overflow-x: hidden;
+  background-image: url('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/fabric_plaid.png?raw=true');
+overflow-x: hidden;
 }      
-      
+    
 .content-wrapper {
-  margin: 0 auto;
+margin: 0 auto;
 }
-  
+
 .title {
-  display: flex;
-  justify-content: space-between;
-  width: 30%;
-  font-family: 'Open Sans', sans-serif;
-  }
+display: flex;
+justify-content: space-between;
+width: 30%;
+padding: 10px;
+font-family: 'Open Sans', sans-serif; }
 
 #facebook {
-  width: 25px;
-  height: 25px;
-  border-radius: 8px;
+width: 25px;
+height: 25px;
+border-radius: 8px;
 }
 
 #twitter {
-  width: 25px;
-  height: 25px;
-  border-radius: 8px;
+width: 25px;
+height: 25px;
+border-radius: 8px;
 }
 
 .socials {
-  display: inline;
-  float: right;
-  display-content: row;
-  position: relative;
-  top: -50px;
+display: inline;
+float: right;
+display-content: row;
+position: relative;
+top: -50px;
 }
 
 
 .log-in { 
-  display: flex;
-  float: right;
-  position: relative;
-  right: -55px;
-  top: -20px;
-  font-family: 'Open Sans', sans-serif;
+display: flex;
+float: right;
+position: relative;
+right: -55px;
+top: -20px;
+font-family: 'Open Sans', sans-serif;
 }
 
 .big img {
-  width: 950px;
-  height: 400px;
-  background-color: white;
-  padding: 10px;
-  position: relative;
-  top: 40px;
+width: 950px;
+height: 400px;
+background-color: white;
+padding: 10px;
+position: relative;
+top: 40px;
 }
 
 #icon-3 {
-  width:50px;
-  height:70px;
-  position: relative;
-  bottom: 200px;
-  left: -20px;
+width:50px;
+height:70px;
+position: relative;
+bottom: 200px;
+left: -20px;
 }
 
 #icon-4 {
-  width:50px;
-  height:70px;
-  position: relative;
-  left: 880px;
-  bottom: 200px;
+width:50px;
+height:70px;
+position: relative;
+left: 880px;
+bottom: 200px;
 }
 
 .namebox {
-  position: relative;
-  left: 1000px;
-  bottom: 458px;
-  background-color: white;
-  width: 275px;
-  height: 150px;
-  margin: 0;
-  padding: 10px;
+position: relative;
+left: 1000px;
+bottom: 458px;
+background-color: white;
+width: 275px;
+height: 150px;
+margin: 0;
+padding: 10px;
 }
 
 #profilepic {
-  position: relative;
-  left: 160px;
-  top: 20px;
-  width: 100px;
-  border-radius: 100%;
-  
+position: relative;
+left: 160px;
+top: 20px;
+width: 100px;
+border-radius: 100%;
+
 }
 
 .intro {
-  display: flex;
-  justify-content: flex-end;
-  position: relative;
-  right: 120px;
-  bottom: 100px;
- 
+display: flex;
+justify-content: flex-end;
+position: relative;
+right: 120px;
+bottom: 100px;
+
 }
 
 #icon2-1 {
-  width: 30px;
-  height: 30px;
-  border-radius: 8px;
-  position: relative;
-  left: 90px;
-  bottom: 110px;
-  filter:opacity(80%);
+width: 30px;
+height: 30px;
+border-radius: 8px;
+position: relative;
+left: 90px;
+bottom: 110px;
+filter:opacity(80%);
 }
 
 #icon2-2 {
-  width: 30px;
-  height: 30px;
-  border-radius: 8px;
-  position: relative;
-  left: 100px;
-  bottom: 110px;
-  filter: opacity(80%);
+width: 30px;
+height: 30px;
+border-radius: 8px;
+position: relative;
+left: 100px;
+bottom: 110px;
+filter: opacity(80%);
 }
 .bottombox {
-  position: relative;
-  bottom: 450px;
-  left: 1000px;
-  background-color: white;
-  width: 235px;
-  height: 450px;
-  padding: 30px;
-  
+position: relative;
+bottom: 450px;
+left: 1000px;
+background-color: white;
+width: 235px;
+height: 450px;
+padding: 30px;
+
 }
 
 .top {
-  height: 200px;
-  max-width: 23%;
-	margin-left: 20px;
-  background-color: white;
-  padding: 5px;
+height: 200px;
+max-width: 23%;
+margin-left: 20px;
+background-color: white;
+padding: 5px;
 }
 
 .three {
-  display: flex;
-  flex-flow: row wrap;
-  position: relative;
-  bottom: 660px;
-  right: 20px;
-  
+display: flex;
+flex-flow: row wrap;
+position: relative;
+bottom: 660px;
+right: 20px;
+
 }
 
 .nametag {
-  position: relative;
-  bottom: 650px;
-  left: 5px;
-  font-family: 'Open Sans', sans-serif;
+position: relative;
+bottom: 650px;
+left: 5px;
+font-family: 'Open Sans', sans-serif;
 }
 
 .bottom {
-  height: 195px;
-  width: 304px;
-	margin-left: 20px;
-  margin-bottom: 20px;
-  max-width: 23%;
+height: 195px;
+width: 304px;
+margin-left: 20px;
+margin-bottom: 20px;
+max-width: 23%;
 }
 
 .gallery {
-  display: flex;
-  flex-flow: row wrap;
-  position: relative;
-  bottom: 660px;
- 
+display: flex;
+flex-flow: row wrap;
+position: relative;
+bottom: 660px;
+
 }
 
 .twitterbox {
-   background-color: #404040;
-   display: flex;
-   justify-content: center;
-   position: relative;
-   bottom: 660px;
-   width: 1325px;
-   height: 45px;
-   color: white;
+ background-color: #404040;
+ display: flex;
+ justify-content: center;
+ position: relative;
+ bottom: 660px;
+ width: 1325px;
+ height: 45px;
+ color: white;
 }
 
 .small {
-  font-size: x-small;
-  position: relative;
-  bottom: 10px;
-  
+font-size: x-small;
+position: relative;
+bottom: 10px;
+
 }
 
 #icon-5 {
-  width:30px;
-  height:30px;
-  position: relative;
-  bottom:-10px;
-  transform: rotate(18deg);
-  
+width:30px;
+height:30px;
+position: relative;
+bottom:-10px;
+transform: rotate(18deg);
+
 }
 
 .firstcolumn {
-  display: flex;
-  justify-content: space-between;
-  width: 30%;
-  position: relative;
-  top: 20px;
-  left: 10px;
+display: flex;
+justify-content: space-between;
+width: 30%;
+position: relative;
+top: 20px;
+left: 10px;
 }
 
 .Searching {
-  position: relative;
-  top: 20px;
-  left: 10px;
+position: relative;
+top: 20px;
+left: 10px;
 }
 
 .searchbar {
-  background-color: white;
-  width: 400px;
-  height: 30px;
-  position: relative;
-  left: 10px;
-  top: 40px;
-  
+background-color: white;
+width: 400px;
+height: 30px;
+position: relative;
+left: 10px;
+top: 40px;
+
 }
 
 .search {
-  position: relative;
-  bottom: 38px;
-  left: 30px;
+position: relative;
+bottom: 38px;
+left: 30px;
 }
 
 #icon-6 {
-  width:25px;
-  height:25px;
+width:25px;
+height:25px;
 }
 
 .secondcolumn {
-  position: relative;
-  left:470px;
-  bottom: 155px;
+position: relative;
+left:470px;
+bottom: 155px;
 }
 
 .thirdcolumn {
-  position: relative;
-  bottom: 292px;
-  left: 940px;
- 
+position: relative;
+bottom: 292px;
+left: 940px;
+
 }
 
 .small {
-  width: 90px;
-  height: 60px;
-  max-width: 21%;
-	margin: 2% 0;
-  position: relative;
-  left: 940px;
-  bottom:320px;
+width: 90px;
+height: 60px;
+max-width: 21%;
+margin: 2% 0;
+position: relative;
+left: 940px;
+bottom:320px;
 }
 
 .smallbotpics{
-  position: relative;
-  bottom: 50px;
+position: relative;
+bottom: 50px;
 }
 
 .footer {
 font-family: 'Open Sans', sans-serif;
 background-color: #b3b3ac;
-  background-image: url ('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/az_subtle.png?raw=true');
-  width: 1325px;
-  height: 250px;
-  position: relative;
-  bottom: 660px;
+background-image: url ('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/az_subtle.png?raw=true');
+width: 1325px;
+height: 250px;
+position: relative;
+bottom: 660px;
 }
+
 

@@ -163,6 +163,97 @@ display: flex;
 align-self: center;
 
 }
+
+.firstcolumn {
+display: flex;
+justify-content: space-between;
+width: 30%;
+position: relative;
+top: 60px;
+left: 10px;
+}
+
+.searching {
+position: relative;
+top: 50px;
+left: 10px;
+}
+
+.searchbar {
+background-color: white;
+width: 400px;
+height: 30px;
+position: relative;
+top: 50px;
+left: 10px;
+}
+
+.search {
+position: relative;
+bottom: 38px;
+left: 30px;
+}
+
+#icon-6 {
+width:25px;
+height:25px;
+}
+
+.secondcolumn {
+position: relative;
+left:470px;
+top:-130px;
+}
+
+.thirdcolumn {
+position: relative;
+top: -267px;
+left: 950px;
+}
+
+.bottom {
+font-family: 'Open Sans', sans-serif;
+background-color: #b3b3ac;
+background-image: url ('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/az_subtle.png?raw=true');
+background-size: cover;
+height: 300px;
+
+}
+
+.twitterbox {
+ background-color: #404040;
+ display: flex;
+ justify-content: center;
+ position: relative;
+ top: 45px;
+ width: 1325px;
+ height: 45px;
+ color: white;
+}
+
+.move {
+position: relative; 
+left: 50px;
+}
+
+#icon-5 {
+width:30px;
+height:30px;
+position: relative;
+bottom:-10px;
+left: 30px;
+transform: rotate(18deg);
+}
+
+.small {
+font-size: x-small;
+position: relative;
+left: 60px;
+top: 20px;
+display: flex;
+align-self: center;
+
+}
 .firstcolumn {
 display: flex;
 justify-content: space-between;
