@@ -7,26 +7,26 @@ body {
   margin: 0 auto;
 }
   
- div.title {
+.title {
   display: flex;
   justify-content: space-between;
   width: 30%;
   font-family: 'Open Sans', sans-serif;
   }
 
-#icon-1 {
+#facebook {
   width: 25px;
   height: 25px;
   border-radius: 8px;
 }
 
-#icon-2 {
+#twitter {
   width: 25px;
   height: 25px;
   border-radius: 8px;
 }
 
-div.icons {
+.socials {
   display: inline;
   float: right;
   display-content: row;
@@ -35,7 +35,7 @@ div.icons {
 }
 
 
-div.log-in { 
+.log-in { 
   display: flex;
   float: right;
   position: relative;
@@ -69,7 +69,7 @@ div.log-in {
   bottom: 200px;
 }
 
-div.namebox {
+.namebox {
   position: relative;
   left: 1000px;
   bottom: 458px;
@@ -89,7 +89,7 @@ div.namebox {
   
 }
 
-p.intro {
+.intro {
   display: flex;
   justify-content: flex-end;
   position: relative;
@@ -117,8 +117,7 @@ p.intro {
   bottom: 110px;
   filter: opacity(80%);
 }
-
-div.bottombox {
+.bottombox {
   position: relative;
   bottom: 450px;
   left: 1000px;
@@ -137,7 +136,7 @@ div.bottombox {
   padding: 5px;
 }
 
-div.three {
+.three {
   display: flex;
   flex-flow: row wrap;
   position: relative;
@@ -146,7 +145,7 @@ div.three {
   
 }
 
-div.nametag {
+.nametag {
   position: relative;
   bottom: 650px;
   left: 5px;
@@ -161,7 +160,7 @@ div.nametag {
   max-width: 23%;
 }
 
-div.gallery {
+.gallery {
   display: flex;
   flex-flow: row wrap;
   position: relative;
@@ -169,7 +168,7 @@ div.gallery {
  
 }
 
-div.twitterbox {
+.twitterbox {
    background-color: #404040;
    display: flex;
    justify-content: center;
@@ -180,7 +179,7 @@ div.twitterbox {
    color: white;
 }
 
-p.small {
+.small {
   font-size: x-small;
   position: relative;
   bottom: 10px;
@@ -196,7 +195,7 @@ p.small {
   
 }
 
-div.firstcolumn {
+.firstcolumn {
   display: flex;
   justify-content: space-between;
   width: 30%;
@@ -205,13 +204,13 @@ div.firstcolumn {
   left: 10px;
 }
 
-div.Searching {
+.Searching {
   position: relative;
   top: 20px;
   left: 10px;
 }
 
-div.searchbar {
+.searchbar {
   background-color: white;
   width: 400px;
   height: 30px;
@@ -221,7 +220,7 @@ div.searchbar {
   
 }
 
-p.search {
+.search {
   position: relative;
   bottom: 38px;
   left: 30px;
@@ -232,13 +231,13 @@ p.search {
   height:25px;
 }
 
-div.secondcolumn {
+.secondcolumn {
   position: relative;
   left:470px;
   bottom: 155px;
 }
 
-div.thirdcolumn {
+.thirdcolumn {
   position: relative;
   bottom: 292px;
   left: 940px;
@@ -255,12 +254,12 @@ div.thirdcolumn {
   bottom:320px;
 }
 
-div.smallbotpics{
+.smallbotpics{
   position: relative;
   bottom: 50px;
 }
 
-div.footer {
+.footer {
 font-family: 'Open Sans', sans-serif;
 background-color: #b3b3ac;
   background-image: url ('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/az_subtle.png?raw=true');
