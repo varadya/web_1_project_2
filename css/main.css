@@ -30,8 +30,6 @@ border-radius: 8px;
 
 .socials {
 display: inline;
-float: right;
-display-content: row;
 position: relative;
 top: -50px;
 }
